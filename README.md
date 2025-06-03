@@ -1,1 +1,4 @@
-# global-solution-Governan-a-Samuel
+# global-solution-Governanca-Samuel
+# Nomes:
+Samuel Fialho - RM:551824
+Henrique de Mello Alves - RM:551273
